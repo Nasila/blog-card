@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/blog-card/static/css/main.60754e41.css",
+    "main.js": "/blog-card/static/js/main.cf8e76db.js",
+    "static/js/453.9e63b54a.chunk.js": "/blog-card/static/js/453.9e63b54a.chunk.js",
+    "static/media/spacejoy-YqFz7UMm8qE-unsplash.jpg": "/blog-card/static/media/spacejoy-YqFz7UMm8qE-unsplash.a4be3f5c2a3d3a0c0708.jpg",
+    "index.html": "/blog-card/index.html",
+    "main.60754e41.css.map": "/blog-card/static/css/main.60754e41.css.map",
+    "main.cf8e76db.js.map": "/blog-card/static/js/main.cf8e76db.js.map",
+    "453.9e63b54a.chunk.js.map": "/blog-card/static/js/453.9e63b54a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60754e41.css",
+    "static/js/main.cf8e76db.js"
+  ]
+}
